@@ -1,6 +1,6 @@
 node_modules/
 .firebaserc
 firebase.json
-buid/
+build/
 .firebase/
 client.js
